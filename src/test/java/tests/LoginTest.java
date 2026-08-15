@@ -16,5 +16,7 @@ public class LoginTest extends hooks {
     @Test
     public void test() {
         System.out.println("Test Successfully!");
+        //Below is the new code to test checkout
+        System.out.println("This is new output in old file");
     }
 }
